@@ -62,7 +62,7 @@
     "source-map": "0.5.6",
     "string-hash": "1.1.1",
     "stylis": "3.3.2",
-    "stylis-rule-sheet": "0.0.6"
+    "stylis-rule-sheet": "0.0.10"
   },
   "devDependencies": {
     "ava": "0.19.1",
